@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 62a365101ee6eb34b88829394c11db39
+timeCreated: 1517104022
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sparkObject: {fileID: 1129940824700226, guid: 30698b281c6063a449a458b133617920,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
